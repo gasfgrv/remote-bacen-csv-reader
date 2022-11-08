@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class RemoteBacenCsvReaderApplication
 
 fun main(args: Array<String>) {
-	runApplication<RemoteBacenCsvReaderApplication>(*args)
+    runApplication<RemoteBacenCsvReaderApplication>(*args)
 }
