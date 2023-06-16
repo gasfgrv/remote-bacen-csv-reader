@@ -1,4 +1,4 @@
-package br.com.gusto.remotebacencsvreader
+package com.gasfgrv.remotebacencsvreader
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class RemoteBacenCsvReaderApplication
 
 fun main(args: Array<String>) {
-    runApplication<RemoteBacenCsvReaderApplication>(*args)
+	runApplication<RemoteBacenCsvReaderApplication>(*args)
 }
